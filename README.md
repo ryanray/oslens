@@ -1,5 +1,7 @@
 # OS Lens
 
+![Open Source Lens](./screenshot.png)
+
 This project relies on two services to be running as well as the GitHub API. The Front-end(client) 
 is built with Vite/React/TypeScript. The back-end(server) is build with Fastify/TypeScript.
 
