@@ -5,7 +5,7 @@
 
 ## Setup
 1. create `.env` in `server` directory
-1. Add your GITHUB_TOKEN to .env (see [.env.example](./env.example))
+1. Add your GITHUB_TOKEN to .env (see [.env.example](./.env.example))
 1. `npm install`
 1. `npm run dev`
 
